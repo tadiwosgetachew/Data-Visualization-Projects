@@ -6,7 +6,7 @@ This project consists of two Python scripts that fetch data from GitHub and Hack
 
 ## Features
 
-- Fetches the most starred repositories from GitHub.
+- Fetches the most starred python repositories from GitHub.
 - Retrieves the most active discussions from Hacker News.
 - Visualizes the data using Pygal with clickable links to each repository and discussion.
 

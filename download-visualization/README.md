@@ -26,7 +26,7 @@ To run these scripts, you will need:
 
 ## Usage 
 
-### World population Visulization
+### World population visulization
 
 - Download the world population data in JSON format (also provided) & use the script to visualize the data for the year 2010. 
 
