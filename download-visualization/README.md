@@ -13,7 +13,7 @@ This project aims to provide insights into world demographics and weather patter
 
 - Uses world population data downloaded in JSON format.
 - Plots an interactive world population map that is an SVG, color-coded based on population density, and scales beautifully from smartwatches to large screens. The `get_country_code` class from the `country_code` module is used to handle country codes.
-- Handles CSV data for weather without using additional libraries like pandas.
+
 
 ## Requirements
 
@@ -28,7 +28,7 @@ To run these scripts, you will need:
 
 ### World population Visulization
 
-- Download the world population data in JSON format(also provided) & use the script to visualize the data for the year 2010. 
+- Download the world population data in JSON format (also provided) & use the script to visualize the data for the year 2010. 
 
 ### Weather data visualization 
 
