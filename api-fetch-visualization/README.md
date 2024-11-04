@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project consists of two Python scripts that fetch data from GitHub and Hacker News. The first script retrieves the most starred projects on GitHub, while the second script fetches the most active discussions on Hacker News. The data is visualized using Pygal.
+This project consists of two Python scripts that fetch data from GitHub and Hacker News. The first script retrieves the most starred python projects on GitHub, while the second script fetches the most active discussions on Hacker News. The data is visualized using Pygal.
 
 ## Features
 
