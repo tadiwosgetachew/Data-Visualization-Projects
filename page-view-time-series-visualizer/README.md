@@ -11,10 +11,11 @@ The project involves cleaning the data and creating visualizations:
 
 ## Project Structure
 
-- `data/`: Dataset used for analysis.
--  `examples`: Test your graphs against with these figures.
+- `fcc-forum-pageviews.csv/`: Dataset used for analysis.
+-  `examples`: Test your graphs against these figures.
 - `visualizations/`: Generated charts and figures.
 - `notebooks/`: Data cleaning, analysis, and visualizations code.
+- `test_module`: Test cases ensure the project’s functionality, covering data processing, visualizations, and core features, including edge and common use cases.
 - `README.md`: Project details.
 
 ## Requirements
